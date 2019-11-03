@@ -1,5 +1,5 @@
-# Algorithms 1
-Stanford University online algorithms course part 1
+# Algorithms: Design and Analysis Part 1
+Stanford University online course
 
 ## Lectures
 1. Introduction
